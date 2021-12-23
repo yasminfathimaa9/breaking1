@@ -37,7 +37,7 @@ function App() {
           img={item.img} name={item.name} birthday={item.birthday} category={item.category} occupation={item.occupation} status={item.status} nickname={item.nickname} portrayed={item.portrayed} />
       </div>
       ))}
-
+              
     </div>
   );
 }
