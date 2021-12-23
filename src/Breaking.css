@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.card {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+    margin:10px;
+}
+.name1{
+    color: white;
+}
+.name2 {
+    color: white;
+}
+.name3 {
+    color: white;
+}
+.name4 {
+    color: white;
+}
+.name5 {
+    color: white;
+}
+.name6 {
+    color: white;
+}
